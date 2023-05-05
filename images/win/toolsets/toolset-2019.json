@@ -423,7 +423,8 @@
             { "name": "parcel", "test": "parcel --version"},
             { "name": "webpack" },
             { "name": "webpack-cli" },
-            { "name": "node-sass" }
+            { "name": "node-sass" },
+            { "name": "vercel", "test": "vercel --version" }
         ]
     },
     "serviceFabric": {

@@ -46,6 +46,11 @@
         { "name": "Pester" },
         { "name": "PSScriptAnalyzer" }
     ],
+    "npm": {
+        "global_packages": [
+            { "name": "vercel", "test": "vercel --version" }
+        ]
+    },
     "brew": {
         "common_packages": [
             "ant",

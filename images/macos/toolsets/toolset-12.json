@@ -177,7 +177,8 @@
     ],
     "npm": {
         "global_packages": [
-            { "name": "appcenter-cli", "test": "appcenter --version" }
+            { "name": "appcenter-cli", "test": "appcenter --version" },
+            { "name": "vercel", "test": "vercel --version" }
         ]
     },
     "brew": {

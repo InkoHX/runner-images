@@ -335,7 +335,8 @@
             { "name": "newman", "test": "newman --version" },
             { "name": "lerna", "test": "lerna --version" },
             { "name": "gulp-cli", "test": "gulp --version" },
-            { "name": "grunt-cli", "test": "grunt --version" }
+            { "name": "grunt-cli", "test": "grunt --version" },
+            { "name": "vercel", "test": "vercel --version" }
         ]
     },
     "serviceFabric": {
